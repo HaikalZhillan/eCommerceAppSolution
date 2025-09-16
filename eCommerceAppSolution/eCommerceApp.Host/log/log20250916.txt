@@ -1,0 +1,33 @@
+2025-09-16 17:04:47.151 +07:00 [INF] Application is building.......
+2025-09-16 17:04:48.807 +07:00 [INF] User profile is available. Using 'C:\Users\Haikal\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-16 17:04:48.945 +07:00 [INF] Application is running.......
+2025-09-16 17:04:49.164 +07:00 [INF] Now listening on: https://localhost:7220
+2025-09-16 17:04:49.166 +07:00 [INF] Now listening on: http://localhost:5117
+2025-09-16 17:04:49.197 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-16 17:04:49.214 +07:00 [INF] Hosting environment: Development
+2025-09-16 17:04:49.233 +07:00 [INF] Content root path: C:\Users\Haikal\OneDrive\Documents\dot\eCommerceAppSolution\eCommerceAppSolution\eCommerceApp.Host
+2025-09-16 17:04:49.870 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger - null null
+2025-09-16 17:04:49.988 +07:00 [INF] HTTP GET /swagger responded 301 in 3.3690 ms
+2025-09-16 17:04:49.996 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger - 301 0 null 130.1395ms
+2025-09-16 17:04:50.002 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2025-09-16 17:04:50.048 +07:00 [INF] HTTP GET /swagger/index.html responded 200 in 39.8048 ms
+2025-09-16 17:04:50.055 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2025-09-16 17:04:50.055 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-16 17:04:50.079 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 76.8958ms
+2025-09-16 17:04:50.055 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/swagger-ui-standalone-preset.js - null null
+2025-09-16 17:04:50.053 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/swagger-ui.css - null null
+2025-09-16 17:04:50.054 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/swagger-ui-bundle.js - null null
+2025-09-16 17:04:50.109 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 54.1331ms
+2025-09-16 17:04:50.132 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-09-16 17:04:50.132 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-09-16 17:04:50.136 +07:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 24.2714 ms
+2025-09-16 17:04:50.136 +07:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 22.4727 ms
+2025-09-16 17:04:50.137 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-09-16 17:04:50.138 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 82.8801ms
+2025-09-16 17:04:50.138 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 83.6217ms
+2025-09-16 17:04:50.139 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/swagger-ui.css - 200 152034 text/css 86.0494ms
+2025-09-16 17:04:50.140 +07:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 25.1852 ms
+2025-09-16 17:04:50.149 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 94.8507ms
+2025-09-16 17:04:50.244 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2025-09-16 17:04:50.258 +07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 9.5749 ms
+2025-09-16 17:04:50.261 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.0416ms
